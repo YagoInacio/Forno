@@ -1,26 +1,25 @@
 Tabela de I/O
 
-•	Pressostato de alta
-•	Pressostato de baixa
-•	Sensor de fluxo de ar de exaustão
-•	Sensor de fluxo de ar de forcado
-•	Fim de curso de porta fechada
-•	Fim de curso de porta aberta
-•	Status do relay de chama
-•	Sensor de chama principal
-•	Sensor de chama piloto
-•	Chama ok
+•	Pressostato de alta			M0.0
+•	Pressostato de baixa			M0.1
+•	Sensor de fluxo de ar de exaustão	M0.2
+•	Sensor de fluxo de ar de forcado	M0.3
+•	Fim de curso de porta fechada		M0.4
+•	Fim de curso de porta aberta		M0.5	
+•	Sensor de chama piloto			M0.6
+•	Sensor de chama principal		M0.7
+•	Chama ok				M1.0
 
 
 
 
-•	Ventilador de exaustão
-•	Ventilador de ar forcado
+•	Ventilador de exaustão			Q0.0
+•	Ventilador de ar forcado		Q0.1
 •	Comando de purga 
 	o	Abrir todas as portas, ligar exaustores e garantir os estados
-•	Fechar porta
-•	Abrir porta
-•	Válvula de controle
-•	Comando do relay de chama
-•	Válvula de bloqueio por PLC
+•	Fechar porta				Q0.2
+•	Abrir porta				Q0.3
+•	Válvula de controle			Q0.4
+•	Válvula de bloqueio por PLC		Q0.5
+•	Comando do relay de chama		Q0.6
 
